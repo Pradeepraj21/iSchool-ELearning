@@ -4,13 +4,11 @@ iSchool (E-Learning Management System)” is comes under the Web Based Applicati
 curriculum or choose lessons on an as-needed basis.
 
 ![](website-images/website-HomePage.PNG)
-![](website-images/website-Gallery.PNG)
-![](website-images/website-Login.PNG)
-![](website-images/website-Parking.PNG)
-![](website-images/website-Complaints.PNG)
-![](website-images/website-Notice.PNG)
-![](website-images/website-Visitors.PNG)
-![](website-images/website-Employee.PNG)
+![](website-images/website-Courses.PNG)
+![](website-images/website-Student-profile.PNG)
+![](website-images/website-AdminDashboard.PNG)
+![](website-images/website-AdminCourses.PNG)
+![](website-images/website-Watch-Course.PNG)
 
 ## Technologies used in the project
 
